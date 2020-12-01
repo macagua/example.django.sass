@@ -6,22 +6,8 @@
 .DS_Store
 env/*
 base-static/*
-travel/config/whoosh_index/*
-travel/main/media/*
-travel/main/static/*
-travel/main/static/css/*
-travel/main/static/fonts/*
-travel/main/static/fonts/*
-travel/main/static/img/*
-travel/main/static/js/*
-travel/main/static/manifest.json
-travel/main/static/mptt/*
-travel/main/static/public/*
-travel/main/static/rest_framework/*
-travel/project.db
-*main/static/css/*
-travel/static/media/destinos/*
-travel/main/private/destinos/*
+myapp/static/*
+myapp/static/CACHE/*
 
 # Created by https://www.gitignore.io/api/python,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=python,visualstudiocode
